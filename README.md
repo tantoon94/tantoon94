@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm currently working on a group project for the web architecture course as a CE student at CASA.<br>I'm quite new to coding and am in the process of learning. <br>I'm very interested in finding the relationship between space and social behaviour and anything that drives action in spatial environments.<br>A fun fact about me is that I love watching cartoons and love the colour GREEN; I'm also a big fan of grapefruits!
+I'm currently a CE student at CASA.<br>I'm quite new to coding and am in the process of learning. <br>I'm very interested in finding the relationship between space and social behaviour and anything that drives action in spatial environments.<br>A fun fact about me is that I love watching cartoons and love the colour GREEN; I'm also a big fan of grapefruits!
 
 
 ## 🌐 Socials:
